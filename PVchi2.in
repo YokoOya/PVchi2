@@ -1,0 +1,24 @@
+2	# Number of Sets
+0	# Systemic Velocity (km/s)
+0.002 0.006 -0.4 0.4 -6 11	# Parameters (otherparameterLines): rms (Jy/beam), threshold (Jy/beam), Xmin, Xmax, Ymin, Ymax
+2 0 1	# Other Parameters: #Set for Weight, Sets for Weight // if #Set4Weight==0, second parameter = 'fixed Norm'.
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-30PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA50-140deg-CentRA0.Dec0..out
+PV.H2CS.744-643.743-642.autocleaned.robust0.5.niter3000.threshold5mJy.notaper.centA1.PA050deg.fits
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-30PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA50deg-CentRA0.Dec0..fits
+PV.H2CS.744-643.743-642.autocleaned.robust0.5.niter3000.threshold5mJy.notaper.centA1.PA140deg.fits
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-30PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA140deg-CentRA0.Dec0..fits
+
+2	# Number of Sets
+0	# Systemic Velocity (km/s)
+0.002 0.006 -0.4 0.4 -6 11	# Parameters (otherparameterLines): rms (Jy/beam), threshold (Jy/beam), Xmin, Xmax, Ymin, Ymax
+2 0 1	# Other Parameters: #Set for Weight, Sets for Weight // if #Set4Weight==0, second parameter = 'fixed Norm'.
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-40PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA50-140deg-CentRA0.Dec0..out
+PV.H2CS.744-643.743-642.autocleaned.robust0.5.niter3000.threshold5mJy.notaper.centA1.PA050deg.fits
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-40PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA50deg-CentRA0.Dec0..fits
+PV.H2CS.744-643.743-642.autocleaned.robust0.5.niter3000.threshold5mJy.notaper.centA1.PA140deg.fits
+IRAS16293-2422_A1-Vsys2.5_LineH2CS744_Pix0.004as0.1kmps_D140M0.1CB300I-40PA50Rot1Rout30Rin0_IRE-T0Flare30Nprof-1.5Tprof0.0_Kep-T0Flare30Nprof-1.5Tprof0.0_LW1.0_Beam0.118x0.078PA-85.868_PV-PA140deg-CentRA0.Dec0..fits
+
+
+0
+
+
